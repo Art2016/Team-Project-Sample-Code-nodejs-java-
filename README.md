@@ -1,4 +1,4 @@
-# Team Project Sample Code (android) - Newsing IT App -
+# Team Project Sample Code (server) - Newsing IT App -
 
 # Development(nodejs, Java) issues
 
